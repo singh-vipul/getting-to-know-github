@@ -1,2 +1,2 @@
 # getting-to-know-github
-Practicing GitHub workflow
+Practicing GitHub workflow through examples
