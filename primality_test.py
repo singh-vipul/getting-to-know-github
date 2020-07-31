@@ -6,4 +6,4 @@ def is_prime_number(number):
     if number % i == 0:
       return False
     i += 1
-  return True
+  return number >= 2
